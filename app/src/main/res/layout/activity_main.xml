@@ -18,7 +18,7 @@
         android:focusableInTouchMode="true"
         android:marqueeRepeatLimit="marquee_forever"
         android:singleLine="true"
-        android:text="当前厨房温度:26度 ,正常　　当前厨房湿度:60% ,正常    当前仓库温度:30度,正常.　　　　当前仓库温度:55%,正常.　　　　当前微波炉温度:90度.正常.    当前平底锅温度:60度,过高.    当前电磁炉温度:80度,过高.    " />
+        android:text="正在查询中,请稍后．．．．．．" />
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerView_id"
